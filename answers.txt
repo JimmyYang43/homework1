@@ -1,3 +1,8 @@
 What is the difference between a merge and a rebase?
 
 Merging creates new commits while rebase rewrites the commit history.
+
+
+What is a remote repository?
+
+Centralized storage location for version controlled code and history.
